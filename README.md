@@ -2,7 +2,7 @@
 
 ![Figure](paper_plots/pipeline.png)
 
-This repository contains the code used for the paper "Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows" [arxiv:2508.05744](https://www.arxiv.org/abs/2508.05744).
+This repository contains the code used for the paper "Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows" [(arxiv.org/abs/2508.05744)](https://www.arxiv.org/abs/2508.05744).
 
 ## Software Dependencies
 This code uses `numpy`, `scipy`, `matplotlib`, `pytorch`, `pytorch-lightning`, and `wandb` packages. 
